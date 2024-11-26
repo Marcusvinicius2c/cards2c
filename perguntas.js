@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'HTML',
-    'Para que serve a tag <a>?',
-    'Criar links'
+    'CSS',
+    'Como mudar a cor de fundo do CSS?',
+    'Use background-color'
 )
 
 criaCartao(
@@ -29,9 +29,9 @@ criaCartao(
 )
 
 criaCartao(
-    'JavaScript',
-    'O que é JavaScript?',
-    'Linguagem para adicionar interatividade em páginas web'
+    'HTML',
+    'Para que serve a tag <a>?',
+    'Criar link'
 )
 
 criaCartao(
